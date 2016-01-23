@@ -2,7 +2,7 @@
 
 Для сборки и запуска клиента нужны некотороые зависимости:
  * `nodejs >= 4`
- * `react-native` (`npm i -g react-native`)
+ * `react-native` (`npm i -g react-native-cli`)
  * `android sdk & ndk` пути до них должны быть в `PATH`
  * http://facebook.github.io/react-native/docs/android-setup.html#content
  * Опционально эмулятор, например Genymotion
